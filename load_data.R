@@ -4,7 +4,7 @@ library(googlesheets4)
 library(tidyr)
 library(readr)
 
-staff_csv <- read_csv(here::here("spectrum/staff_list.csv"))
+staff_csv <- read_csv(here::here("staff_list.csv"))
 
 staff_list <- lapply(1:nrow(staff_csv), function(i) {
     member <- staff_member(
@@ -34,7 +34,7 @@ names(staff_list) <- staff_csv[, "id"] %>% pull()
 
 
 
-project_csv <- read_csv(here::here("spectrum/project_list.csv"))
+project_csv <- read_csv(here::here("project_list.csv"))
 
 project_list <- lapply(1:nrow(project_csv), function(i) {
     proj <- project(
@@ -51,7 +51,7 @@ project_list <- lapply(1:nrow(project_csv), function(i) {
     return(proj)
 })
 
-publication_csv <- read_csv(here::here("spectrum/publication_list.csv"))
+publication_csv <- read_csv(here::here("publication_list.csv"))
 
 publication_list <- lapply(1:nrow(publication_csv), function(i) {
     publication(
