@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE, cache = FALSE)
 
 
 ## WHAT WE DO
+SPECTRUM (**S**upporting **P**articipatory **E**vidence Generation to **C**ontrol **T**ransmissible Disease in our **R**egion **U**sing **M**odelling) is a National Health and Medical Research Council (NHRMC) Centre of Research Excellence (CRE), funded from 2019 to 2024.
+
 SPECTRUM's vision is to reduce morbidity and mortality associated with infectious diseases in Australia and our region.
 
 There is a disproportionate burden of infectious diseases in impoverished areas, which persist because of weak health systems and infrastructure. SPECTRUM aims to reduce this burden using sustainable, participatory and model-driven approaches.
@@ -39,4 +41,4 @@ SPECTRUM CRE focuses on four key themes in infectious disease prevention and con
 
 This will be achieved using The Structured Decision-Making Framework: 
 
-![](images/decision_making_process.png){width=50% fig-align="center"}
+![](images/decision_making_process.png){width=50% fig-align="center" fig.alt="Infographic showing the structured decision making framework. There are six bubbles, Clarify Decision Context; Define Objectives & Measures; Develop Alternatives; Estimate Consequences; Evaluate Trade-offs; Implement, Monitor & Review. They cycle around the central idea of the structured decision making framework."}
