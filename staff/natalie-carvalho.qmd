@@ -1,6 +1,7 @@
 ---
 title: "Dr Natalie Carvalho"
 image: "../images/staff/natalie-carvalho.png"
+image-alt: "Headshot of Doctor Natalie Carvalho"
 format:
   html:
     page-layout: full

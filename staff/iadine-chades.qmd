@@ -1,6 +1,7 @@
 ---
 title: "Dr Iadine Chades"
 image: "../images/staff/iadine-chades.jpg"
+image-alt: "Headshot of Doctor Iadine Chades"
 format:
   html:
     page-layout: full

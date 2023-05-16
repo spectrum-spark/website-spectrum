@@ -1,5 +1,5 @@
 ---
-title: "Key Collaborators"
+title: "Partners"
 ---
 
 ```{css, echo=FALSE}
@@ -65,13 +65,15 @@ generate_image_link <- function(image_path, url) {
 
 ## Participating Instititutions
 
+The ones CIs belong to
+
 ## Collaborators
 
-### Domestic Institutions
+Everyone else
 
-### International Institutions
+### Domestic
 
-
+### International
 
 ```{r key-collaborators, results='asis'}
 cat(":::: boxes \n")

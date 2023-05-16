@@ -4,6 +4,7 @@ params:
     staff_list: "`r source('../load_data.R')`"
 title: "Dr Rebecca Chisholm"
 image: "../images/staff/rebecca-chisholm.jpg"
+image-alt: "Headshot of Doctor Rebecca Chisholm"
 format:
   html:
     page-layout: full

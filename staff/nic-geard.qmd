@@ -1,6 +1,7 @@
 ---
 title: "A/Prof. Nic Geard"
 image: "../images/staff/nic-geard.jpg"
+image-alt: "Headshot of Associate Professor Nic Geard"
 format:
   html:
     page-layout: full

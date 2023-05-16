@@ -4,6 +4,7 @@ params:
     staff_list: "`r source('../load_data.R')`"
 title: "Nefel Tellioglu"
 image: "../images/staff/nefel-tellioglu.jpg"
+image-alt: "Headshot of Nefel Tellioglu"
 format:
   html:
     page-layout: full

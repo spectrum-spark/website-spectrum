@@ -4,6 +4,7 @@ params:
     staff_list: "`r source('../load_data.R')`"
 title: "Laura Bannerman"
 image: "../images/staff/laura-bannerman.jpg"
+image-alt: "Headshot of Laura Bannerman"
 format:
   html:
     page-layout: full

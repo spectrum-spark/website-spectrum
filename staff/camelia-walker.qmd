@@ -4,6 +4,7 @@ params:
     staff_list: "`r source('../load_data.R')`"
 title: "Dr Camelia Walker"
 image: "../images/staff/camelia-walker.jpg"
+image-alt: "Headshot of Doctor Camelia Walker"
 format:
   html:
     page-layout: full

@@ -1,6 +1,7 @@
 ---
 title: "Prof. Jodie McVernon"
 image: "../images/staff/jodie-mcvernon.jpg"
+image-alt: "Headshot of Professor Jodie McVernon"
 format:
   html:
     page-layout: full

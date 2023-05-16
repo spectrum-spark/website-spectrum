@@ -1,6 +1,7 @@
 ---
 title: "Prof. James McCaw"
 image: "../images/staff/james-mccaw.jpg"
+image-alt: "Headshot of Professor James McCaw"
 format:
   html:
     page-layout: full

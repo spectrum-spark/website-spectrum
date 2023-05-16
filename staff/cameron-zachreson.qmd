@@ -3,6 +3,7 @@ params:
     staff_id: "cameron-zachreson"
     staff_list: "`r source('../load_data.R')`"
 title: "Dr Cameron Zachreson"
+image-alt: "Headshot of Doctor Cameron Zachreson"
 image: "../images/staff/cameron-zachreson.jpg"
 format:
   html:
