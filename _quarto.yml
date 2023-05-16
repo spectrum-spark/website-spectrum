@@ -32,7 +32,7 @@ website:
           - text: "Home"
             href: ../index.html
           - text: "SPARK"
-            href: ../spark/index.html
+            href: ../website-spark/index.html
           - text: "PRISM<sup>2</sup>"
             href: https://www.prism.edu.au
     foreground: "#F05662"
