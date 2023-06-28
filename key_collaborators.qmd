@@ -60,16 +60,20 @@ generate_image_link <- function(image_path, url) {
     )
 }
 
-
 ```
 
 ## Participating Instititutions
 
-The ones CIs belong to
-
+```{r}
+#| echo: false
+cat("The ones CIs belong to")
+```
 ## Collaborators
 
-Everyone else
+```{r}
+#| echo: false
+cat("Everyone else")
+```
 
 ### Domestic
 
