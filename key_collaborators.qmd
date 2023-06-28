@@ -66,13 +66,13 @@ generate_image_link <- function(image_path, url) {
 
 ```{r}
 #| echo: false
-cat("The ones CIs belong to")
+#cat("The ones CIs belong to")
 ```
 ## Collaborators
 
 ```{r}
 #| echo: false
-cat("Everyone else")
+# cat("Everyone else")
 ```
 
 ### Domestic
