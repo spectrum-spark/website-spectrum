@@ -1,11 +1,11 @@
 [
   {
-    "listing": "/news.html",
+    "listing": "/news/index.html",
     "items": [
-      "/news/20230517_emcr_meeting_june.html",
-      "/news/20230501_emcr_meeting_may.html",
-      "/news/20230217_annual_meeting/20230217_annual_meeting.html",
-      "/news/20230213_annual_meeting_emcr/20230213_annual_meeting_emcr.html"
+      "/news/20230517_emcr_meeting_june/index.html",
+      "/news/20230501_emcr_meeting_may/index.html",
+      "/news/20230217_annual_meeting/index.html",
+      "/news/20230213_annual_meeting_emcr/index.html"
     ]
   }
 ]
