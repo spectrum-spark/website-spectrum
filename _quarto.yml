@@ -14,21 +14,21 @@ website:
       - text: "Home"
         href: index.html
       - text: "People"
-        href: people.html
+        href: staff/index.html
       - text: "Partners"
-        href: key_collaborators.html
+        href: partners/index.html
       - text: "Resources"
         menu:
           - text: "Publications"
-            href: "publications.html#publications"
+            href: "publications/index.html#publications"
           - text: "Video & Media"
-            href: "publications.html#video"
+            href: "publications/index.html#video"
           - text: "Articles"
-            href: "publications.html#articles"
+            href: "publications/index.html#articles"
           - text: "Projects"
-            href: projects.html
+            href: projects/index.html
       - text: "News and Events"
-        href: news.html
+        href: news/index.html
       - text: "Other Consortia"
         menu:
           - text: "Home"

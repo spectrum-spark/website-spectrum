@@ -1,0 +1,72 @@
+---
+params:
+    staff_id: "jennifer-flegg"
+    staff_list: "`r source('../../load_data.R')`"
+title: "Prof. Jennifer Flegg"
+image: "../../images/staff/jennifer-flegg.jpg"
+format:
+  html:
+    page-layout: full
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.spark\.edu\.au\/custom'
+about:
+    id: about-block
+    template: trestles
+    image-shape: round
+    links:
+      - icon: envelope
+        text: "Email"
+        href: "mailto:jennifer.flegg@unimelb.edu.au"
+      - icon: twitter
+        text: "Twitter"
+        href: "https://twitter.com/JenniferFlegg/"
+      - icon: linkedin
+        text: "LinkedIn"
+        href: "https://www.linkedin.com/in/jennifer-flegg-64687a3a/"
+      - icon: globe
+        text: "Blog"
+        href: "https://blogs.unimelb.edu.au/jennifer-flegg/"
+      - icon: globe
+        text: "More"
+        href: "https://findanexpert.unimelb.edu.au/profile/762115-jennifer-flegg"
+---
+   
+```{r setup}
+#| echo: false
+#| warning: false
+#| message: false
+# source("../load_data.R")
+```
+::: {#about-block}
+
+```{r bio}
+#| results: asis
+#| echo: false
+
+staff_member <- staff_list[[params$staff_id]]
+
+cat(staff_member[["bio"]])
+
+```
+
+:::
+
+# Related Projects
+
+```{r list-projects, results = 'asis', echo = FALSE}
+for (project in project_list) {
+    if (staff_member$id %in% project$related_staff) {
+        generate_markdown_for_projects(project)
+    }
+}
+```
+
+# Related publications
+
+```{r list-publications, results='asis', echo=FALSE}
+for (publication in publication_list) {
+    if (staff_member$id %in% publication$related_staff) {
+        generate_markdown_for_publications(publication)
+    }
+}
+```

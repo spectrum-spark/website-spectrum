@@ -1,0 +1,10 @@
+---
+title: "News and Events"
+listing:
+    contents: .
+    type: grid
+    sort: "date desc"
+    categories: true
+    image-placeholder: ../images/s_s_logo.png
+---
+
