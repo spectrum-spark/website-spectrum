@@ -3,7 +3,7 @@ params:
     staff_id: "patricia-campbell"
     staff_list: "`r source('../../load_data.R')`"
 title: "Dr Patricia Campbell"
-image: "../../images/staff/patricia-campbell.jpg"
+image: "../images/staff/patricia-campbell.jpg"
 image-alt: "Headshot of Doctor Patricia Campbell"
 format:
   html:

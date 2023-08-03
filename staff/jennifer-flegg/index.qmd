@@ -3,7 +3,7 @@ params:
     staff_id: "jennifer-flegg"
     staff_list: "`r source('../../load_data.R')`"
 title: "Prof. Jennifer Flegg"
-image: "../../images/staff/jennifer-flegg.jpg"
+image: "../images/staff/jennifer-flegg.jpg"
 format:
   html:
     page-layout: full

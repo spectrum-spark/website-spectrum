@@ -3,7 +3,7 @@ params:
     staff_id: "freya-shearer"
     staff_list: "`r source('../../load_data.R')`"
 title: "Dr Freya Shearer"
-image: "../../images/staff/freya-shearer.png"
+image: "../images/staff/freya-shearer.png"
 image-alt: "Headshot of Doctor Freya Shearer"
 format:
   html:

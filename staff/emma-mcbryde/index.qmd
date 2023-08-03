@@ -1,6 +1,6 @@
 ---
 title: "Prof. Emma McBryde"
-image: "../../images/staff/emma-mcbryde.jpg"
+image: "../images/staff/emma-mcbryde.jpg"
 image-alt: "Headshot of Professor Emma McBryde"
 format:
   html:

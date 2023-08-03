@@ -1,6 +1,6 @@
 ---
 title: "Prof. Barbara McPake"
-image: "../../images/staff/barbara-mcpake.jpg"
+image: "../images/staff/barbara-mcpake.jpg"
 image-alt: "Headshot of Professor Barbara McPake"
 format:
   html:

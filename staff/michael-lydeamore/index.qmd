@@ -1,6 +1,6 @@
 ---
 title: "Dr Michael Lydeamore"
-image: "../../images/staff/michael-lydeamore.jpg"
+image: "../images/staff/michael-lydeamore.jpg"
 image-alt: "Headshot of Doctor Michael Lydeamore"
 format:
   html:

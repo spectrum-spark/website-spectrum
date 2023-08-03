@@ -3,7 +3,7 @@ params:
     staff_id: "johanna-monk"
     staff_list: "`r source('../../load_data.R')`"
 title: "Johanna Monk"
-image: "../../images/staff/johanna-monk.jpg"
+image: "../images/staff/johanna-monk.jpg"
 image-alt: "Headshot of Johanna Monk"
 format:
   html:
